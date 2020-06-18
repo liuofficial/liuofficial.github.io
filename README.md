@@ -50,7 +50,19 @@ Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern
   </tr>
 </table>
 
-
+### Publications: Conferences
+<table border="0">
+  <tr>
+    <ol>
+      <li>Jianjun Liu, Hao Chen, Songze Tang, Jinlong Yang, Hong Yan. Hyperspectral Image Classification via Tensor Ridge Regression. IEEE International Geoscience and Remote Sensing Symposium, 2019: 1156-1159.</li>
+      <li>Jianjun Liu, Zebin Wu, Zhiyong Xiao, Jinlong Yang. Hyperspectral Pansharpening via Multitask Joint Sparse Representation. IEEE International Geoscience and Remote Sensing Symposium, 2018: 7192-7195.</li>
+      <li>Jianjun Liu, Zebin Wu, Zhiyong Xiao, Jinlong Yang. Hyperspectral image classification via kernel fully constrained least squares. IEEE International Geoscience and Remote Sensing Symposium, 2017: 2219-2222.</li>
+      <li>Jianjun Liu, Xiaoqian Shi, Zebin Wu, Liang Xiao, Zhiyong Xiao, Yun-Hao Yuan. Hyperspectral image classification via region-based composite kernels. IEEE International Geoscience and Remote Sensing Symposium, 2016: 933-936.</li>
+      <li>Jianjun Liu, Zebin Wu, Zhihui Wei, Liang Xiao, Le Sun. A novel sparsity constrained nonnegative matrix factorization for hyperspectral unmixing. IEEE International Geoscience and Remote Sensing Symposium, 2012: 1389-1392.</li>
+      <li>Jianjun Liu, Zebin Wu, Zhihui Wei, Le Sun. A split bregman method for linear spectral unmixing. Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing, 2012: 1-4.</li>
+    </ol>
+  </tr>
+</table>
 
 ```markdown
 ```
