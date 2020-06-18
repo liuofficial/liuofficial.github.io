@@ -15,6 +15,16 @@
   </tr>
 </table>
 
+
+### Education and Work Experience
+
+```markdown
+1. 2005/09-2009/06, bachelor, department of mathematics, Nanjing University of Science and Technology
+2. 2009/09-2014/06, PhD, school of computer science, Nanjing University of Science and Technology
+3. 2018/11-2020/11, Postdoctoral Researcher, department of EE, City University of Hong Kong
+4. 2014/06-Now, Jiangnan University
+```
+
 ### Research Interests
 
 Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern Recognition, Computer Vision, Deep Learning and etc.
@@ -45,7 +55,7 @@ Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern
 ```
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=4wYQDFVIAefzDxo0Dr8uHqwS_5bloxbRP6HzYjRByVQ&cl=ffffff&w=a"></script>
     </td>
   </tr>
