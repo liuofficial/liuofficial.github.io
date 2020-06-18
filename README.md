@@ -16,6 +16,13 @@
 
 Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern Recognition, Computer Vision, Deep Learning and etc.
 
+### Publications
+
+```markdown
+- Jianjun Liu, Zebin Wu, Liang Xiao, Jun Sun, Hong Yan. Generalized Tensor Regression for Hyperspectral Image Classification. IEEE Transactions on Geoscience and Remote Sensing, 2020,  58(2): 1244-1258.
+- Jianjun Liu, Zebin Wu, Zhiyong Xiao, Jinlong Yang. Region-based Relaxed Multiple Kernel Collaborative Representation for Hyperspectral Image Classification. IEEE Access, 2017,  5(20921-20933.
+```
+
 ```markdown
 Syntax highlighted code block
 
