@@ -21,7 +21,7 @@ Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern
 <table border="0">
   <tr>
     <ol>
-      <li>Jianjun Liu, Zebin Wu, Liang Xiao, Hong Yan. Learning Multiple Parameters for Kernel Collaborative Representation Classification. IEEE Transactions on Neural Networks and Learning Systems, 2020.</li>
+      <li>Jianjun Liu, Zebin Wu, Liang Xiao, Hong Yan. Learning Multiple Parameters for Kernel Collaborative Representation Classification. IEEE Transactions on Neural Networks and Learning Systems, 2020. <font color="red">See code on GitHub</font> </li>
       <li>Jianjun Liu, Zebin Wu, Liang Xiao, Jun Sun, Hong Yan. Generalized Tensor Regression for Hyperspectral Image Classification. IEEE Transactions on Geoscience and Remote Sensing, 2020,  58(2): 1244-1258.</li>
       <li>Hao Chen, Jianjun Liu, Liang Xiao. An improved composite kernel framework for hyperspectral image classification using canonical correlation analysis. Remote Sensing Letters, 2019,  10(4): 411-420.</li>
       <li>Jianjun Liu, Zebin Wu, Zhiyong Xiao, Jinlong Yang. Region-based Relaxed Multiple Kernel Collaborative Representation for Hyperspectral Image Classification. IEEE Access, 2017,  5: 20921-20933.</li>
