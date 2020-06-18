@@ -21,6 +21,7 @@ Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern
 
 ### Publications
 <table border="0">
+<font color="pink" size="7">知识</font>
   <tr>
     <ol>
       <li>Jianjun Liu, Zebin Wu, Liang Xiao, Hong Yan. Learning Multiple Parameters for Kernel Collaborative Representation Classification. IEEE Transactions on Neural Networks and Learning Systems, 2020. <b>See code on GitHub</b></li>
