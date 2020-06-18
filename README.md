@@ -14,9 +14,7 @@
 
 ### Research Interests
 
-```markdown
 Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern Recognition, Computer Vision, Deep Learning and etc.
-```
 
 ```markdown
 Syntax highlighted code block
