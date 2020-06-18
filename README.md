@@ -20,6 +20,7 @@
 Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern Recognition, Computer Vision, Deep Learning and etc.
 
 ### Publications
+<font color=gray size=72>color=gray</font>
 <table border="0">
   <tr>
     <ol>
