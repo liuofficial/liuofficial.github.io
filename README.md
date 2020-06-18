@@ -65,7 +65,6 @@ Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern
 </table>
 
 ```markdown
-
 ```
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.jsd=4wYQDFVIAefzDxo0Dr8uHqwS_5bloxbRP6HzYjRByVQ&cl=ffffff&w=a"></script>
 
