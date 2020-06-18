@@ -20,29 +20,7 @@ Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern
 
 ```markdown
 - Jianjun Liu, Zebin Wu, Liang Xiao, Jun Sun, Hong Yan. Generalized Tensor Regression for Hyperspectral Image Classification. IEEE Transactions on Geoscience and Remote Sensing, 2020,  58(2): 1244-1258.
-- Jianjun Liu, Zebin Wu, Zhiyong Xiao, Jinlong Yang. Region-based Relaxed Multiple Kernel Collaborative Representation for Hyperspectral Image Classification. IEEE Access, 2017,  5(20921-20933.
+- Jianjun Liu, Zebin Wu, Zhiyong Xiao, Jinlong Yang. Region-based Relaxed Multiple Kernel Collaborative Representation for Hyperspectral Image Classification. IEEE Access, 2017,  5: 20921-20933.
 ```
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuofficial/jianjunliu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
