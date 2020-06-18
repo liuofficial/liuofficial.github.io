@@ -9,6 +9,9 @@
       <p><b>Email: liuofficial at 163.com</b></p>
       <p><b>Address: No.1800, lihu Avenue, Wuxi, 214122, China</b></p>
     </td>
+    <td width="25%">
+      <img src="/jianjun.jpg" width="100%">
+    </td>
   </tr>
 </table>
 
