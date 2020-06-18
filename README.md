@@ -1,11 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Jianjun Liu's personal website
 
 <table border="0">
   <tr>
     <td width="75%">
       <h1>JianJun Liu</h1>
       <p><b>PhD</b></p>
-      <p><b>Jiangnan University</b></p>
+      <p><b>School of Artificial Intelligence and Computer Science, Jiangnan University</b></p>
       <p><b>Email: liuofficial@163.com</b></p>
       <p><b>Address: No.1800, lihu Avenue, Wuxi, 214122, China</b></p>
     </td>
