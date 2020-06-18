@@ -14,7 +14,9 @@
 
 ### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
+Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern Recognition, Computer Vision, Deep Learning and etc.
+```
 
 ```markdown
 Syntax highlighted code block
