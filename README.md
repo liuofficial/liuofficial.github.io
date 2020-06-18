@@ -29,7 +29,7 @@
 
 Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern Recognition, Computer Vision, Deep Learning and etc.
 
-### Publications
+### Publications: Journals
 <table border="0">
   <tr>
     <ol>
@@ -46,6 +46,20 @@ Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern
       <li>Jianjun Liu, Zebin Wu, Zhihui Wei, Liang Xiao, Le Sun. Spatial-spectral kernel sparse representation for hyperspectral image classification. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2013,  6(6): 2462-2471. <b><font color="#FF0000"><a href="https://github.com/liuofficial/KSRC">See code on GitHub</a></font></b></li>
       <li>刘建军, 吴泽彬, 韦志辉, 肖亮, 孙乐. 基于约束非负矩阵分解的高光谱图像解混快速算法. 电子学报, 2013,  41(3): 432-437.</li>
       <li>刘建军, 吴泽彬, 韦志辉, 肖亮, 孙乐. 基于空间相关性约束稀疏表示的高光谱图像分类. 电子与信息学报, 2012,  34(11): 2666-2671.</li>
+    </ol>
+  </tr>
+</table>
+
+### Publications: Conferences
+<table border="0">
+  <tr>
+    <ol>
+      <li>Jianjun Liu, Hao Chen, Songze Tang, Jinlong Yang, Hong Yan. Hyperspectral Image Classification via Tensor Ridge Regression. IEEE International Geoscience and Remote Sensing Symposium, 2019: 1156-1159.</li>
+      <li>Jianjun Liu, Zebin Wu, Zhiyong Xiao, Jinlong Yang. Hyperspectral Pansharpening via Multitask Joint Sparse Representation. IEEE International Geoscience and Remote Sensing Symposium, 2018: 7192-7195.</li>
+      <li>Jianjun Liu, Zebin Wu, Zhiyong Xiao, Jinlong Yang. Hyperspectral image classification via kernel fully constrained least squares. IEEE International Geoscience and Remote Sensing Symposium, 2017: 2219-2222.</li>
+      <li>Jianjun Liu, Xiaoqian Shi, Zebin Wu, Liang Xiao, Zhiyong Xiao, Yun-Hao Yuan. Hyperspectral image classification via region-based composite kernels. IEEE International Geoscience and Remote Sensing Symposium, 2016: 933-936.</li>
+      <li>Jianjun Liu, Zebin Wu, Zhihui Wei, Liang Xiao, Le Sun. A novel sparsity constrained nonnegative matrix factorization for hyperspectral unmixing. IEEE International Geoscience and Remote Sensing Symposium, 2012: 1389-1392.</li>
+      <li>Jianjun Liu, Zebin Wu, Zhihui Wei, Le Sun. A split bregman method for linear spectral unmixing. Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing, 2012: 1-4.</li>
     </ol>
   </tr>
 </table>
