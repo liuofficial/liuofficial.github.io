@@ -10,7 +10,7 @@
       <p><b>Address: No.1800, lihu Avenue, Wuxi, 214122, China</b></p>
     </td>
     <td width="25%">
-      <img src="/jianjun.jpg" width="80%">
+      <img src="/jianjun.jpg" width="90%">
     </td>
   </tr>
 </table>
