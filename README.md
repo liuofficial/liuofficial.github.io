@@ -21,8 +21,10 @@ Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern
 <table border="0">
   <tr>
     <td width="75%">
-      <li>Jianjun Liu, Zebin Wu, Liang Xiao, Jun Sun, Hong Yan. Generalized Tensor Regression for Hyperspectral Image Classification. IEEE Transactions on Geoscience and Remote Sensing, 2020,  58(2): 1244-1258.</li>
-      <li>Jianjun Liu, Zebin Wu, Liang Xiao, Jun Sun, Hong Yan. Generalized Tensor Regression for Hyperspectral Image Classification. IEEE Transactions on Geoscience and Remote Sensing, 2020,  58(2): 1244-1258.</li>
+      <ol>
+        <li>Jianjun Liu, Zebin Wu, Liang Xiao, Jun Sun, Hong Yan. Generalized Tensor Regression for Hyperspectral Image Classification. IEEE Transactions on Geoscience and Remote Sensing, 2020,  58(2): 1244-1258.</li>
+        <li>Jianjun Liu, Zebin Wu, Liang Xiao, Jun Sun, Hong Yan. Generalized Tensor Regression for Hyperspectral Image Classification. IEEE Transactions on Geoscience and Remote Sensing, 2020,  58(2): 1244-1258.</li>
+      </ol>
     </td>
   </tr>
 </table>
