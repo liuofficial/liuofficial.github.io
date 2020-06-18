@@ -3,7 +3,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>JianJun Liu</h1>
+      <h1>JianJun Liu（刘建军）</h1>
       <p><b>PhD, Associate Professor</b></p>
       <p><b>School of Artificial Intelligence and Computer Science, Jiangnan University</b></p>
       <p><b>Email: liuofficial at 163.com</b></p>
