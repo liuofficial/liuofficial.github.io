@@ -33,6 +33,7 @@ Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern
 <table border="0">
   <tr>
     <ol>
+      <li> Jianjun Liu, Dunbin Shen, Zebin Wu, Liang Xiao, Jun Sun, Hong Yan. Patch-Aware Deep Hyperspectral and Multispectral Image Fusion by Unfolding Subspace-Based Optimization Model. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2021. <b><font color="#FF0000"><a href="https://github.com/liuofficial/SpfNet">See code on GitHub</a></font></b></li>
       <li>Dunbin Shen, Jianjun Liu*, Zebin Wu, Jinlong Yang, Liang Xiao. Admm-hfnet: A matrix decomposition based deep approach for hyperspectral image fusion. IEEE Transactions on Geoscience and Remote Sensing, 2021. <b><font color="#FF0000"><a href="https://github.com/liuofficial/ADMM-HFNet">See code on GitHub</a></font></b></li>
       <li>Yanglin Sun, Jianjun Liu*, Jinlong Yang, Zhiyong Xiao, Zebin Wu. A deep image prior-based interpretable network for hyperspectral image fusion. Remote Sensing Letters, 2021,  12(12): 1250-1259.</li>
       <li>Zhe Wu, Jianjun Liu*, Jinlong Yang, Zhiyong Xiao, Liang Xiao. Composite kernel learning network for hyperspectral image classification. International Journal of Remote Sensing, 2021, 42(16): 6068-6091.</li>
