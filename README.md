@@ -33,7 +33,7 @@ Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern
 <table border="0">
   <tr>
     <ol>
-      <li> Jianjun Liu, Zebin Wu, Liang Xiao, Xiao-Jun Wu. Model Inspired Autoencoder for Unsupervised Hyperspectral Image Super-Resolution. IEEE Transactions on Geoscience and Remote Sensing, 2022: 5522412. <b><font color="#FF0000"><a href="https://github.com/liuofficial/SpfNet">See code on GitHub</a></font></b></li>
+      <li> Jianjun Liu, Zebin Wu, Liang Xiao, Xiao-Jun Wu. Model Inspired Autoencoder for Unsupervised Hyperspectral Image Super-Resolution. IEEE Transactions on Geoscience and Remote Sensing, 2022: 5522412. <b><font color="#FF0000"><a href="https://github.com/liuofficial/MIAE">See code on GitHub</a></font></b></li>
       <li> Jianjun Liu, Dunbin Shen, Zebin Wu, Liang Xiao, Jun Sun, Hong Yan. Patch-Aware Deep Hyperspectral and Multispectral Image Fusion by Unfolding Subspace-Based Optimization Model. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022. <b><font color="#FF0000"><a href="https://github.com/liuofficial/SpfNet">See code on GitHub</a></font></b></li>
       <li>Dunbin Shen, Jianjun Liu*, Zebin Wu, Jinlong Yang, Liang Xiao. Admm-hfnet: A matrix decomposition based deep approach for hyperspectral image fusion. IEEE Transactions on Geoscience and Remote Sensing, 2022: 5513417. <b><font color="#FF0000"><a href="https://github.com/liuofficial/ADMM-HFNet">See code on GitHub</a></font></b></li>
       <li>Yanglin Sun, Jianjun Liu*, Jinlong Yang, Zhiyong Xiao, Zebin Wu. A deep image prior-based interpretable network for hyperspectral image fusion. Remote Sensing Letters, 2021,  12(12): 1250-1259.</li>
