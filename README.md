@@ -33,6 +33,7 @@ Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern
 <table border="0">
   <tr>
     <ol>
+      <li> Diyi Jin, Jianjun Liu*, Jinlong Yang, Zebin Wu. High-Order Coupled Fully-Connected Tensor Network Decomposition for Hyperspectral Image Super-Resolution. IEEE Geoscience and Remote Sensing Letters, 2022. </li>
       <li> Yanli Shang, Jianjun Liu*, Jinlong Yang, Zebin Wu. A Model-Inspired Approach With Transformers for Hyperspectral Pansharpening. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022,  15: 7187-7202. <b><font color="#FF0000"><a href="https://github.com/liuofficial/MTNet">See code on GitHub</a></font></b></li>
       <li> Jianjun Liu, Zebin Wu, Liang Xiao, Xiao-Jun Wu. Model Inspired Autoencoder for Unsupervised Hyperspectral Image Super-Resolution. IEEE Transactions on Geoscience and Remote Sensing, 2022: 5522412. <b><font color="#FF0000"><a href="https://github.com/liuofficial/MIAE">See code on GitHub</a></font></b></li>
       <li> Jianjun Liu, Dunbin Shen, Zebin Wu, Liang Xiao, Jun Sun, Hong Yan. Patch-Aware Deep Hyperspectral and Multispectral Image Fusion by Unfolding Subspace-Based Optimization Model. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022, 15: 1024-1038. <b><font color="#FF0000"><a href="https://github.com/liuofficial/SpfNet">See code on GitHub</a></font></b></li>
