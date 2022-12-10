@@ -27,7 +27,7 @@
 
 ### Research Interests
 
-Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern Recognition, Computer Vision, Deep Learning and etc.
+Hyperspectral Image Processing, Remote Sensing, Matrix Decompoistion, Sparse and Collaborative Representation, Pattern Recognition, Computer Vision, Deep Learning and etc.
 
 ### Publications: Journals
 <table border="0">
