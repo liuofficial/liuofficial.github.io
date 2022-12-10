@@ -33,6 +33,7 @@ Hyperspectral Image Processing, Sparse and Collaborative Representation, Pattern
 <table border="0">
   <tr>
     <ol>
+      <li>Yihao Shao, Jianjun Liu, Jinlong Yang, Zebin Wu. Spatial–Spectral Involution MLP Network for Hyperspectral Image Classification. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022,  15: 9293-9310. </li>
       <li>Yibo Zhao, Jianjun Liu*, Jinlong Yang, Zebin Wu. Remote Sensing Image Scene Classification via Self-Supervised Learning and Knowledge Distillation. Remote Sensing, 2022,  14(19): 4813.</li>
       <li> Diyi Jin, Jianjun Liu*, Jinlong Yang, Zebin Wu. High-Order Coupled Fully-Connected Tensor Network Decomposition for Hyperspectral Image Super-Resolution. IEEE Geoscience and Remote Sensing Letters, 2022, 19: 1-5. </li>
       <li> Yanli Shang, Jianjun Liu*, Jinlong Yang, Zebin Wu. A Model-Inspired Approach With Transformers for Hyperspectral Pansharpening. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022,  15: 7187-7202. <b><font color="#FF0000"><a href="https://github.com/liuofficial/MTNet">See code on GitHub</a></font></b></li>
