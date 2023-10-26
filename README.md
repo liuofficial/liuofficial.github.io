@@ -33,7 +33,7 @@ Hyperspectral Image Processing, Remote Sensing, Matrix Decompoistion, Sparse and
 <table border="0">
   <tr>
     <ol>
-      <li>Yibo Zhao, Jianjun Liu*, Jinlong Yang, Zebin Wu. EMSCNet: Efficient Multisample Contrastive Network for Remote Sensing Image Scene Classification. IEEE Transactions on Geoscience and Remote Sensing, 2023,  61: 1-14.</li>
+      <li>Yibo Zhao, Jianjun Liu*, Jinlong Yang, Zebin Wu. EMSCNet: Efficient Multisample Contrastive Network for Remote Sensing Image Scene Classification. IEEE Transactions on Geoscience and Remote Sensing, 2023,  61: 1-14.<b><font color="#FF0000"><a href="https://github.com/liuofficial/EMSCNet">See code on GitHub</a></font></b></li>
       <li>Lifan Ji, Yihao Shao, Jianjun Liu*, Liang Xiao. Spatial-spectral hierarchical vision permutator for hyperspectral image classification. European Journal of Remote Sensing, 2023,  56(1): 1-16.</li>
       <li>Yihao Shao, Jianjun Liu*, Jinlong Yang, Zebin Wu. Spatial–Spectral Involution MLP Network for Hyperspectral Image Classification. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022,  15: 9293-9310. </li>
       <li>Yibo Zhao, Jianjun Liu*, Jinlong Yang, Zebin Wu. Remote Sensing Image Scene Classification via Self-Supervised Learning and Knowledge Distillation. Remote Sensing, 2022,  14(19): 4813.</li>
