@@ -73,6 +73,8 @@ Hyperspectral Image Processing, Remote Sensing, Image Fusion, SuperResolution, M
 <table border="0">
   <tr>
     <ol>
+      <li>Meimei Weng, Jianjun Liu*. Band Embedding-Based Network for Spectral Super-Resolution. IEEE International Geoscience and Remote Sensing Symposium, 2024: 9126-9129.</li>
+      <li>Hongru Zong, Jianjun Liu*. Dual-Branch Autoencoder with Clustering Information for Hyperspectral Blind Unmixing. IEEE International Geoscience and Remote Sensing Symposium, 2024: 9139-9142.</li>
       <li>Jianjun Liu, Hao Chen, Songze Tang, Jinlong Yang, Hong Yan. Hyperspectral Image Classification via Tensor Ridge Regression. IEEE International Geoscience and Remote Sensing Symposium, 2019: 1156-1159.</li>
       <li>Jianjun Liu, Zebin Wu, Zhiyong Xiao, Jinlong Yang. Hyperspectral Pansharpening via Multitask Joint Sparse Representation. IEEE International Geoscience and Remote Sensing Symposium, 2018: 7192-7195.</li>
       <li>Jianjun Liu, Zebin Wu, Zhiyong Xiao, Jinlong Yang. Hyperspectral image classification via kernel fully constrained least squares. IEEE International Geoscience and Remote Sensing Symposium, 2017: 2219-2222.</li>
