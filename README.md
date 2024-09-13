@@ -27,12 +27,13 @@
 
 ### Research Interests
 
-Hyperspectral Image Processing, Remote Sensing, Matrix Decompoistion, Sparse and Collaborative Representation, Pattern Recognition, Computer Vision, Deep Learning and etc.
+Hyperspectral Image Processing, Remote Sensing, Image Fusion, SuperResolution, Matrix Decompoistion, Sparse and Collaborative Representation, Pattern Recognition, Computer Vision, Deep Learning and etc.
 
 ### Publications: Journals
 <table border="0">
   <tr>
     <ol>
+      <li>Yanli Shang, Jianjun Liu*, Jingyi Zhang, Zebin Wu*. MFT-GAN: A Multiscale Feature-Guided Transformer Network for Unsupervised Hyperspectral Pansharpening. IEEE Transactions on Geoscience and Remote Sensing, 2024,  62：5518516.</li>
       <li>Jingyi Zhang, Jianjun Liu*, Jinlong Yang, Zebin Wu. Crossed Dual-Branch U-Net for Hyperspectral Image Super-Resolution. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024,  17：2296-2307.<b><font color="#FF0000"><a href="https://github.com/liuofficial/CD-UNet">See code on GitHub</a></font></b></li>
       <li>Yibo Zhao, Jianjun Liu*, Zebin Wu. CDLNet: Collaborative Dictionary Learning Network for Remote Sensing Image Scene Classification. IEEE Transactions on Geoscience and Remote Sensing, 2023,  61: 1-14.<b><font color="#FF0000"><a href="https://github.com/liuofficial/CDLNet">See code on GitHub</a></font></b></li>
       <li>Yibo Zhao, Jianjun Liu*, Jinlong Yang, Zebin Wu. EMSCNet: Efficient Multisample Contrastive Network for Remote Sensing Image Scene Classification. IEEE Transactions on Geoscience and Remote Sensing, 2023,  61: 1-14.<b><font color="#FF0000"><a href="https://github.com/liuofficial/EMSCNet">See code on GitHub</a></font></b></li>
