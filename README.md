@@ -33,6 +33,7 @@ Hyperspectral Image Processing, Remote Sensing, Image Fusion, SuperResolution, M
 <table border="0">
   <tr>
     <ol>
+      <li>Jianjun Liu, Zebin Wu, Liang Xiao. A Spectral Diffusion Prior for Unsupervised Hyperspectral Image Super-Resolution. IEEE Transactions on Geoscience and Remote Sensing, 2024,  62: 5528613.<b><font color="#FF0000"><a href="https://github.com/liuofficial/SDP">See code on GitHub</a></font></b></li>
       <li>Yanli Shang, Jianjun Liu*, Jingyi Zhang, Zebin Wu*. MFT-GAN: A Multiscale Feature-Guided Transformer Network for Unsupervised Hyperspectral Pansharpening. IEEE Transactions on Geoscience and Remote Sensing, 2024,  62：5518516.</li>
       <li>Jingyi Zhang, Jianjun Liu*, Jinlong Yang, Zebin Wu. Crossed Dual-Branch U-Net for Hyperspectral Image Super-Resolution. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024,  17：2296-2307.<b><font color="#FF0000"><a href="https://github.com/liuofficial/CD-UNet">See code on GitHub</a></font></b></li>
       <li>Yibo Zhao, Jianjun Liu*, Zebin Wu. CDLNet: Collaborative Dictionary Learning Network for Remote Sensing Image Scene Classification. IEEE Transactions on Geoscience and Remote Sensing, 2023,  61: 1-14.<b><font color="#FF0000"><a href="https://github.com/liuofficial/CDLNet">See code on GitHub</a></font></b></li>
