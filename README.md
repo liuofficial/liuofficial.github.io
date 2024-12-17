@@ -24,6 +24,8 @@
 3. 2018/11-2020/11, Postdoctoral Researcher, department of EE, City University of Hong Kong
 4. 2014/06-Now, Jiangnan University
 ```
+### News
+空缺1个博士名额，欢迎报考！学校报名截止2024年12月26日。
 
 ### Research Interests
 
