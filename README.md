@@ -34,6 +34,7 @@ Hyperspectral Image Processing, Remote Sensing, Image Fusion, SuperResolution, M
 <table border="0">
   <tr>
     <ol>
+       <li>Haoyue Sun, Jianjun Liu*, Jinlong Yang, Zebin Wu. HMAFNet: Hybrid Mamba-Attention Fusion Network for Remote Sensing Image Semantic Segmentation. IEEE Geoscience and Remote Sensing Letters, 2025,  22: 8001405. <b><font color="#FF0000"><a href="https://github.com/liuofficial/HAMFNet">See code on GitHub</a></font></b></li>
       <li>Jianjun Liu, Zebin Wu, Liang Xiao. A Spectral Diffusion Prior for Unsupervised Hyperspectral Image Super-Resolution. IEEE Transactions on Geoscience and Remote Sensing, 2024,  62: 5528613. <b><font color="#FF0000"><a href="https://github.com/liuofficial/SDP">See code on GitHub</a></font></b></li>
       <li>Yanli Shang, Jianjun Liu*, Jingyi Zhang, Zebin Wu*. MFT-GAN: A Multiscale Feature-Guided Transformer Network for Unsupervised Hyperspectral Pansharpening. IEEE Transactions on Geoscience and Remote Sensing, 2024,  62：5518516. <b><font color="#FF0000"><a href="https://github.com/liuofficial/MFT-GAN">See code on GitHub</a></font></b></li>
       <li>Jingyi Zhang, Jianjun Liu*, Jinlong Yang, Zebin Wu. Crossed Dual-Branch U-Net for Hyperspectral Image Super-Resolution. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024,  17：2296-2307. <b><font color="#FF0000"><a href="https://github.com/liuofficial/CD-UNet">See code on GitHub</a></font></b></li>
