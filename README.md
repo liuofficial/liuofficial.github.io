@@ -34,6 +34,7 @@ Hyperspectral Image Processing, Remote Sensing, Image Fusion, SuperResolution, M
 <table border="0">
   <tr>
     <ol>
+      <li>Jianjun Liu, Hongru Zong, Zebin Wu, Liang Xiao. A Biobjective Model-Driven Autocoder for Blind Hyperspectral Unmixing. IEEE Transactions on Geoscience and Remote Sensing, 2025,  63: 5516420.</li>
       <li>Tianhua Mao, Jianjun Liu*, Jinlong Yang, Zebin Wu. A Self-Distillation-Based Multimodal Feature Alignment Network for Hyperspectral Image and LiDAR Classification. IEEE Geoscience and Remote Sensing Letters, 2025,  22: 5504805. </li>
       <li>Meimei Weng, Jianjun Liu*, Jinlong Yang, Zebin Wu, Liang Xiao. Range–Null Space Decomposition With Frequency-Oriented Mamba for Spectral Superresolution. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025,  18: 10292-10306. </li>
       <li>Wenchen Deng, Jianjun Liu*, Jinlong Yang, Zebin Wu, Liang Xiao. Dual-Path Interactive U-Net for Unsupervised Hyperspectral Image Super -Resolution. IEEE Journal of Selected Topics in Applied Earth Observations and Remo te Sensing, 2025,  18: 11751-11766. </li>
