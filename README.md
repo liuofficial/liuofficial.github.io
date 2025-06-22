@@ -69,6 +69,7 @@ Hyperspectral Image Processing, Remote Sensing, Image Fusion, SuperResolution, M
       <li>Jianjun Liu, Zebin Wu, Jun Li, Liang Xiao, Antonio Plaza, J. A. Benediktsson. Spatial-Spectral Hyperspectral Image Classification Using Random Multiscale Representation. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2016,  9(9): 4129-4141.</li>
       <li>Jianjun Liu, Zebin Wu, Le Sun, Zhihui Wei, Liang Xiao. Hyperspectral Image Classification Using Kernel Sparse Representation and Semilocal Spatial Graph Regularization. IEEE Geoscience and Remote Sensing Letters, 2014,  11(8): 1320-1324. <b><font color="#FF0000"><a href="https://github.com/liuofficial/SSG">See code on GitHub</a></font></b></li>
       <li>Jianjun Liu, Zebin Wu, Zhihui Wei, Liang Xiao, Le Sun. Spatial-spectral kernel sparse representation for hyperspectral image classification. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2013,  6(6): 2462-2471. <b><font color="#FF0000"><a href="https://github.com/liuofficial/KSRC">See code on GitHub</a></font></b></li>
+      <li>李赫, 刘建军*, 肖亮. 融合交叉注意力与双编码器的医学图像分割. 中国图象图形学报, 2024,  29(11): 3462-3475.</li>
       <li>刘建军, 吴泽彬, 韦志辉, 肖亮, 孙乐. 基于约束非负矩阵分解的高光谱图像解混快速算法. 电子学报, 2013,  41(3): 432-437.</li>
       <li>刘建军, 吴泽彬, 韦志辉, 肖亮, 孙乐. 基于空间相关性约束稀疏表示的高光谱图像分类. 电子与信息学报, 2012,  34(11): 2666-2671.</li>
     </ol>
